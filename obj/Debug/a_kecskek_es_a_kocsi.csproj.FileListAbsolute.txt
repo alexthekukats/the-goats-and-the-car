@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\a_kecskek_es_a_kocsi\a_kecskek_es_a_kocsi\bin\Debug\a_kecskek_es_a_kocsi.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\a_kecskek_es_a_kocsi\a_kecskek_es_a_kocsi\bin\Debug\a_kecskek_es_a_kocsi.exe
+c:\users\alex\documents\visual studio 2013\Projects\a_kecskek_es_a_kocsi\a_kecskek_es_a_kocsi\bin\Debug\a_kecskek_es_a_kocsi.pdb
+c:\users\alex\documents\visual studio 2013\Projects\a_kecskek_es_a_kocsi\a_kecskek_es_a_kocsi\obj\Debug\a_kecskek_es_a_kocsi.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\a_kecskek_es_a_kocsi\a_kecskek_es_a_kocsi\obj\Debug\a_kecskek_es_a_kocsi.exe
+c:\users\alex\documents\visual studio 2013\Projects\a_kecskek_es_a_kocsi\a_kecskek_es_a_kocsi\obj\Debug\a_kecskek_es_a_kocsi.pdb
